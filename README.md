@@ -16,7 +16,3 @@
 <div align='center'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nolpents'>
 </div>
-<br> <br> <br>
-<div align='center'>
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=nolpents'>
-</div>
